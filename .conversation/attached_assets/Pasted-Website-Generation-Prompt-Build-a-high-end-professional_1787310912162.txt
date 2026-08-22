@@ -1,0 +1,352 @@
+Website Generation Prompt
+
+Build a high-end, professional, modern business website using all of the assets and content I have attached to this request.
+
+1. Core Requirement
+
+I have already provided:
+
+The complete website content/copy.
+Our official company logo.
+The code for the hero section that I want to use.
+
+Use these provided assets as the single source of truth. Do not replace, rewrite, invent, or remove important business content unless absolutely necessary for layout or responsiveness.
+
+The entire website should be visually designed around the identity, colors, typography, visual language, and overall aesthetic of the provided logo.
+
+The website should feel like a premium, professionally designed business website — not like a generic AI-generated template.
+
+2. Logo & Brand Identity
+
+Analyze the provided logo carefully and derive the website's visual identity from it.
+
+Use the logo to establish:
+
+Primary and secondary colors.
+Accent colors.
+Overall color temperature.
+Typography direction.
+Button styling.
+Borders and dividers.
+Background treatments.
+Card styling.
+Gradients.
+Shadows.
+Hover states.
+Overall visual personality.
+
+The logo should feel naturally integrated into the website rather than simply being placed in the navbar.
+
+Maintain strong brand consistency throughout every section.
+
+Do not introduce random colors that conflict with the logo.
+
+3. Hero Section — Critical Requirement
+
+I have attached existing hero-section code.
+
+Use that hero-section code exactly as provided.
+
+Do not redesign, replace, simplify, recreate, or approximate the hero section.
+
+Preserve:
+
+The existing structure.
+The existing animations.
+The existing interactions.
+The existing visual effects.
+The existing layout.
+The existing styling.
+The existing component behavior.
+The existing code wherever possible.
+
+Integrate the provided hero section into the overall website while making sure the rest of the website's design system matches it and the company branding.
+
+If the hero code requires supporting dependencies or components, make sure they are correctly integrated rather than replacing the implementation with a simplified version.
+
+The hero section should remain the visual centerpiece of the website.
+
+4. Overall Design Direction
+
+The website should look:
+
+Premium.
+Modern.
+Professional.
+Elegant.
+Confident.
+Technologically polished where appropriate.
+Visually engaging.
+Trustworthy.
+Conversion-focused.
+Clean and spacious.
+
+Avoid making it overly flashy or cluttered.
+
+The goal is "premium business website", not "website overloaded with animations."
+
+Use strong visual hierarchy and generous whitespace.
+
+5. Animations & Interactions
+
+Add polished animations throughout the website.
+
+Animations should feel intentional and professional.
+
+Use things such as:
+
+Smooth section reveal animations.
+Scroll-triggered animations.
+Subtle fade and slide transitions.
+Elegant hover effects.
+Smooth button interactions.
+Image reveal animations.
+Card hover effects.
+Subtle scale transformations.
+Text entrance animations.
+Smooth navigation transitions.
+Parallax effects where appropriate.
+Micro-interactions for interactive elements.
+
+Animations should be:
+
+Smooth.
+Fast enough to feel responsive.
+Subtle enough to remain professional.
+Consistent throughout the website.
+
+Avoid excessive bouncing, spinning, flashing, or distracting animations.
+
+Use easing and timing that make the website feel expensive and polished.
+
+6. Transitions
+
+Create a consistent transition language across the entire website.
+
+Buttons, cards, navigation elements, images, links, and interactive components should have thoughtful hover/focus/active states.
+
+Scrolling between sections should feel smooth.
+
+If page transitions are used, they should be subtle and premium rather than theatrical.
+
+7. Typography
+
+Choose typography that complements the provided logo and business identity.
+
+Typography should have:
+
+Strong visual hierarchy.
+Highly readable body text.
+Distinctive but professional headings.
+Appropriate font weights.
+Carefully controlled line heights.
+Good letter spacing.
+Responsive sizing.
+
+Large headings should feel impactful without overwhelming the page.
+
+Do not use excessive font styles.
+
+8. Layout & Responsiveness
+
+The website must be fully responsive.
+
+Design specifically for:
+
+Desktop.
+Laptop.
+Tablet.
+Mobile.
+
+Do not simply shrink the desktop layout on mobile.
+
+On smaller screens:
+
+Reorganize layouts where necessary.
+Maintain proper spacing.
+Ensure text remains readable.
+Make buttons easy to tap.
+Optimize navigation.
+Preserve important animations without hurting performance.
+Ensure the hero section remains visually strong.
+
+The website should look intentionally designed at every screen size.
+
+9. Content
+
+Use all of the content I have attached and organize it into a logical website structure.
+
+Do not unnecessarily shorten the provided content.
+
+Do not add fake statistics, testimonials, clients, awards, certifications, reviews, or business claims.
+
+If the supplied content contains multiple sections, structure them into a coherent flow that guides visitors naturally through:
+
+Brand introduction → Value proposition → Services/offerings → Benefits/differentiators → Supporting information → Trust → Call to action
+
+Use the actual content provided to determine the appropriate final structure.
+
+10. Navigation
+
+Create a clean, premium navigation bar based on the available content.
+
+The navigation should:
+
+Feature the company logo prominently.
+Have clear navigation links.
+Include an appropriate primary CTA if supported by the provided content.
+Have polished hover states.
+Become mobile-friendly.
+Transition elegantly when scrolling.
+
+If appropriate, make the navbar sticky while scrolling.
+
+11. Sections
+
+Every section should feel like part of the same design system.
+
+Do not make individual sections look like unrelated templates.
+
+Use a consistent system for:
+
+Spacing.
+Colors.
+Typography.
+Border radius.
+Shadows.
+Cards.
+Buttons.
+Icons.
+Animation.
+Background treatments.
+
+Create visual rhythm between sections so the page feels cohesive from top to bottom.
+
+12. Visual Details
+
+Pay attention to high-quality details such as:
+
+Subtle gradients.
+Layered backgrounds.
+Soft shadows.
+Fine borders.
+Glass effects where appropriate.
+Accent lighting.
+Decorative elements derived from the brand identity.
+Image masking/cropping.
+Section separators.
+Subtle background patterns.
+
+These details should enhance the brand rather than distract from the content.
+
+13. Images & Assets
+
+Use the attached assets wherever appropriate.
+
+Do not replace the provided company logo with a generic icon.
+
+Do not use unrelated stock imagery simply to fill empty space.
+
+If an image is required and no suitable image has been provided, use a visually appropriate placeholder that matches the site's design language rather than introducing something that conflicts with the brand.
+
+14. Buttons & CTAs
+
+Buttons should look premium and consistent with the brand.
+
+Use:
+
+Strong contrast.
+Appropriate padding.
+Refined border radius.
+Subtle hover animations.
+Smooth transitions.
+Clear hierarchy between primary and secondary actions.
+
+CTA wording should come from the provided content whenever possible.
+
+15. Performance
+
+Despite the animations and visual effects, keep the website performant.
+
+Avoid unnecessary:
+
+Heavy effects.
+Excessive DOM elements.
+Repeated animations.
+Large unoptimized assets.
+Animations that cause layout shifts.
+
+Prefer GPU-friendly and performant animations.
+
+Respect prefers-reduced-motion where appropriate.
+
+16. Accessibility
+
+Make the website accessible and production-ready.
+
+Include:
+
+Semantic HTML.
+Proper heading hierarchy.
+Accessible buttons and links.
+Keyboard navigation.
+Visible focus states.
+Appropriate color contrast.
+Alt text for meaningful images.
+Reduced-motion support.
+
+Do not sacrifice accessibility for visual effects.
+
+17. Code Quality
+
+Write clean, maintainable, production-quality code.
+
+Use reusable components wherever appropriate.
+
+Avoid duplicating styles or logic unnecessarily.
+
+Keep the design system consistent through reusable:
+
+Buttons.
+Cards.
+Typography styles.
+Containers.
+Section layouts.
+Animation patterns.
+
+Most importantly, do not break or unnecessarily modify the provided hero-section code.
+
+18. Final Quality Standard
+
+Before considering the website complete, review the entire experience as if you were a senior UI/UX designer and frontend developer.
+
+Check:
+
+Does the entire website visually match the logo?
+Does the hero section use my exact provided code?
+Does every section feel like part of one premium brand?
+Are the animations smooth and purposeful?
+Are the transitions polished?
+Is the typography professional?
+Is the website responsive?
+Does the mobile version feel intentionally designed?
+Are the CTAs clear?
+Is the content presented in a logical hierarchy?
+Does anything look like a generic AI template?
+Are there unnecessary visual elements?
+Does the website feel trustworthy enough for a real business?
+
+If anything looks generic, unfinished, inconsistent, or amateur, refine it before delivering the final result.
+
+Most Important Instructions
+
+1. Use my attached content.
+2. Use my attached logo as the foundation of the entire visual identity.
+3. Use my attached hero-section code EXACTLY as provided. Do not recreate or replace it.
+4. Make the rest of the website visually match the hero section and brand.
+5. Create a premium, professional, modern business experience.
+6. Add sophisticated animations and transitions without making the website distracting.
+7. Make everything fully responsive and production-ready.
+8. Do not invent business information or claims.
+9. Prioritize consistency, polish, usability, and visual hierarchy.
+10. The final result should look like a website designed by an experienced premium digital agency, not an AI-generated template.

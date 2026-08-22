@@ -1,0 +1,661 @@
+# TANTRASTACK
+
+## Technology That Works for Your Business.
+
+TantraStack is a technology solutions company founded by **Maitri Movaliya and Priyal Nehete**, focused on building practical, modern, and scalable digital solutions for businesses.
+
+From **professional websites and custom software to ERP systems, automation, and AI-powered solutions**, we turn ideas and business challenges into technology that works.
+
+**Think it. Build it. Scale it.**
+
+**[Explore Our Work]**
+**[Start a Project]**
+
+---
+
+# ABOUT US
+
+## We Build. We Solve. We Transform.
+
+TantraStack is a technology-driven venture founded by two Computer Science engineers, **Maitri Movaliya and Priyal Nehete**, with a shared vision of using technology to solve real-world problems.
+
+We believe technology should make businesses **simpler, smarter, and more efficient** — not more complicated.
+
+Every business has its own way of working. That's why we don't believe in forcing businesses into rigid, one-size-fits-all software.
+
+Instead, we understand the problem, study the workflow, identify the right technology, and build a solution around the actual needs of the business.
+
+Whether you need a professional website, a custom business application, an ERP system, an automated workflow, or a completely new digital product, we work closely with you to transform your idea into something real.
+
+### Our Philosophy
+
+> **Technology should adapt to the business — not the business to the technology.**
+
+At TantraStack, we combine **technology, creativity, research, and problem-solving** to build digital solutions that are designed for real-world use.
+
+---
+
+# WHAT WE DO
+
+## Technology. Tailored to You.
+
+We provide technology solutions designed around your business, your users, and your goals.
+
+---
+
+## Web Development
+
+### Your Business Deserves a Digital Presence That Represents It.
+
+We design and develop modern, responsive, and professional websites that help businesses establish their identity online.
+
+From simple business websites to complete web applications, we focus on creating experiences that are visually appealing, responsive, functional, and easy to use.
+
+### We build:
+
+* Business Websites
+* Portfolio Websites
+* E-commerce Websites
+* Service-Based Websites
+* Landing Pages
+* Custom Web Applications
+* Interactive Websites
+* Business Dashboards
+
+**Build your presence. Build your brand.**
+
+---
+
+## ERP & Business Management Solutions
+
+### Bring Your Business Together.
+
+Managing different parts of a business through disconnected tools, spreadsheets, and manual processes can become complicated as the business grows.
+
+Our ERP and business management solutions are designed to bring important operations into one connected digital ecosystem.
+
+### Solutions can include:
+
+* Inventory Management
+* Sales Management
+* Purchase Management
+* Customer Management
+* Order Management
+* Employee Management
+* Billing & Invoicing
+* Reporting
+* Analytics
+* Business Dashboards
+* Role-Based Access
+* Workflow Management
+
+### One Business. One System. One Connected Workflow.
+
+We build ERP solutions that can be customized according to the way your organization actually operates.
+
+---
+
+## Custom Software Solutions
+
+### If Your Problem Is Unique, Your Software Should Be Too.
+
+Off-the-shelf software doesn't always fit every business.
+
+Sometimes you need a system designed specifically around your processes, users, requirements, and goals.
+
+That's where TantraStack comes in.
+
+We develop custom software solutions that can help businesses digitize workflows, manage information, improve productivity, and create better experiences for their teams and customers.
+
+**Your requirement. Your workflow. Your solution.**
+
+---
+
+## AI & Automation
+
+### Make Technology Do More.
+
+Artificial Intelligence and automation are changing how businesses operate.
+
+We explore and develop AI-powered and automated solutions that can help reduce repetitive work, improve efficiency, support decision-making, and create smarter workflows.
+
+Our focus is not on using AI simply because it is trending.
+
+Our focus is on finding **where AI can actually create value.**
+
+### We explore:
+
+* AI-Powered Applications
+* Intelligent Dashboards
+* Data-Driven Solutions
+* Intelligent Business Tools
+
+**Digitise what can be digitised. Focus on what matters.**
+
+---
+
+## UI/UX & Digital Experiences
+
+### Technology Should Feel Simple.
+
+A powerful product is only useful when people can actually use it comfortably.
+
+We focus on creating clean, intuitive, responsive, and user-friendly digital experiences.
+
+From the first interaction to the final action, we think about how users experience the product.
+
+**Simple interfaces. Clear experiences. Better products.**
+
+---
+
+# OUR PRODUCTS
+
+## Products Built for Real-World Problems.
+
+At TantraStack, we don't only build solutions for clients.
+
+We are also working toward building **our own technology products** that can solve practical business problems.
+
+---
+
+## TantraStack ERP
+
+### A Smarter Way to Manage Your Business.
+
+TantraStack ERP is our vision for a customizable business management platform that brings essential business operations together in one connected system.
+
+Instead of relying on multiple disconnected tools, businesses can manage their workflows through an integrated platform.
+
+### Planned / Developing Modules
+
+**Dashboard**
+Get an overview of your business through centralized insights and analytics.
+
+**Customers**
+Manage customer information and interactions in one place.
+
+**Inventory**
+Track products, stock levels, and inventory movements.
+
+**Sales**
+Manage sales processes and transactions efficiently.
+
+**Purchases**
+Organize purchasing activities and supplier-related information.
+
+**Employees**
+Manage employee-related information and business workflows.
+
+**Orders**
+Track and manage orders from initiation to completion.
+
+**Reports & Analytics**
+Turn business data into useful insights.
+
+**Role-Based Access**
+Control what different users can view and manage.
+
+### Status
+
+**Under Development**
+
+TantraStack ERP is being developed with flexibility and scalability in mind, with the goal of creating a platform that can evolve with different business requirements.
+
+---
+
+# CUSTOM BUSINESS SOLUTIONS
+
+## Sometimes You Don't Need Another Product.
+
+### You Need Your Product.
+
+Every organization has unique challenges.
+
+A customized dashboard, internal management system, workflow application, reporting platform, or business tool can sometimes make a bigger difference than adopting a generic solution.
+
+TantraStack works with businesses to understand these challenges and develop technology specifically around them.
+
+**From idea to implementation — we build around your needs.**
+
+### Status
+
+**Available for Development**
+
+---
+
+# OUR WORK
+
+## Turning Ideas Into Working Products.
+
+We believe our work speaks louder than promises.
+
+Every project gives us an opportunity to understand a real problem, experiment with technology, and create something useful.
+
+---
+
+# 01 — HASTKALA BY SIDDHI
+
+## A Digital Presence for a Growing Brand.
+
+**Hastkala by Siddhi** is one of our client projects, for which TantraStack developed a dedicated website to establish and strengthen the brand's digital presence.
+
+The website provides the brand with a professional online platform where customers can explore its offerings and connect with the business.
+
+### Project
+
+**Client:** Hastkala by Siddhi
+**Category:** Business Website
+**Service:** Web Development
+
+### What We Focused On
+
+* Professional digital presence
+* Responsive web experience
+* Brand-focused presentation
+* User-friendly navigation
+* Accessible online presence
+* Modern web design
+
+### Visit the Project
+
+**[View Hastkala by Siddhi →]**
+
+https://hastkalabysiddhi.up.railway.app/
+
+---
+
+# WHY TANTRASTACK?
+
+## More Than Just Development.
+
+Choosing a technology partner is not only about choosing someone who can write code.
+
+It's about choosing someone who can **understand the problem behind the code.**
+
+---
+
+## Business-First Thinking
+
+Before building anything, we focus on understanding your business, your workflow, your users, and your actual problem.
+
+---
+
+## Customized Solutions
+
+We don't believe every business needs the same software.
+
+We build solutions around individual requirements.
+
+---
+
+## Modern Technology
+
+We use modern development practices and technologies to create solutions that are responsive, maintainable, and designed with scalability in mind.
+
+---
+
+## From Idea to Deployment
+
+We help transform an idea from an initial concept into a functional digital product.
+
+**Idea → Planning → Design → Development → Testing → Deployment**
+
+---
+
+## Continuous Learning
+
+Technology evolves every day.
+
+So do we.
+
+We continuously explore new technologies, development practices, AI capabilities, and better ways to solve problems.
+
+---
+
+## Young. Technical. Driven.
+
+We are a young technology venture with an engineering mindset and a strong desire to learn, experiment, build, and create.
+
+We may be at the beginning of our journey, but we are building with a long-term vision.
+
+---
+
+# HOW WE WORK
+
+## From Idea to Impact.
+
+### 01 — UNDERSTAND
+
+We begin by understanding your business, your requirements, your users, and the problem you want to solve.
+
+**We listen before we build.**
+
+↓
+
+### 02 — PLAN
+
+We define the requirements, functionality, technology, scope, and development roadmap.
+
+**A clear problem deserves a clear plan.**
+
+↓
+
+### 03 — DESIGN
+
+We structure the product and user experience before development begins.
+
+**We think about the experience, not just the interface.**
+
+↓
+
+### 04 — BUILD
+
+We turn the approved concept into a functional digital product.
+
+**Ideas become technology.**
+
+↓
+
+### 05 — TEST
+
+We test functionality, responsiveness, usability, and reliability.
+
+**Because working is not enough. It needs to work well.**
+
+↓
+
+### 06 — LAUNCH
+
+Once the product is ready, we deploy it and make it accessible to its users.
+
+**From development environment to the real world.**
+
+↓
+
+### 07 — EVOLVE
+
+Technology should grow with the business.
+
+We can continue improving, expanding, and adapting solutions as requirements evolve.
+
+**Launch is not the end. It's the beginning.**
+
+---
+
+# WHO WE WORK WITH
+
+## Built for Businesses at Every Stage.
+
+### STARTUPS
+
+Turn your idea into a digital product and establish your technology foundation from the beginning.
+
+### SMALL BUSINESSES
+
+Move away from scattered spreadsheets and manual processes toward connected digital systems.
+
+### GROWING BUSINESSES
+
+Digitize workflows, automate repetitive processes, and create systems that can grow with you.
+
+### ESTABLISHED ORGANIZATIONS
+
+Develop customized applications, dashboards, automation systems, and digital tools around existing processes.
+
+### ENTREPRENEURS
+
+Have an idea but don't know where to start?
+
+Let's turn the idea into something tangible.
+
+---
+
+# OUR VISION
+
+## Technology Should Be Accessible to Every Business.
+
+We envision TantraStack becoming a technology company that helps businesses of different sizes **digitize, automate, innovate, and grow.**
+
+We want to make modern technology more accessible to businesses that may not have large technology teams or massive development budgets.
+
+Our long-term vision is to build a portfolio of **software products, ERP platforms, AI-powered solutions, and business technologies** that solve meaningful real-world problems.
+
+---
+
+# OUR MISSION
+
+## Turn Business Problems Into Technology Solutions.
+
+Our mission is to:
+
+* Build technology around real business requirements.
+* Make digital transformation more accessible.
+* Develop practical and scalable software.
+* Help businesses reduce manual processes.
+* Create products that solve real problems.
+* Explore the potential of AI and automation.
+* Continuously learn, experiment, and innovate.
+* Build long-term relationships with the businesses we work with.
+
+---
+
+# MEET THE FOUNDERS
+
+## Two Founders. One Vision.
+
+TantraStack is founded by **Maitri Movaliya and Priyal Nehete**, two Computer Science engineers united by a passion for technology, innovation, and building solutions that create real-world value.
+
+---
+
+## Maitri Movaliya
+
+### Co-Founder & Technology / Product
+
+Maitri is a Computer Science engineering student with a strong passion for **technology, software development, product building, and solving real-world problems through innovative digital solutions.**
+
+As a co-founder of TantraStack, Maitri plays an important role in shaping the company's technical direction, developing products, understanding client requirements, and transforming ideas into practical, working solutions.
+
+She brings a combination of **technical curiosity, creativity, problem-solving ability, product thinking, and an eagerness to learn and experiment.**
+
+Maitri believes that technology is most powerful when it is built with a clear purpose and a genuine understanding of the people who will use it.
+
+At TantraStack, she contributes throughout the product journey — from understanding an idea and planning functionality to development, refinement, and transforming concepts into products that can create real value.
+
+Her ability to approach challenges with curiosity and a builder's mindset is one of the driving forces behind TantraStack.
+
+### Her Philosophy
+
+> **“Build technology that solves a problem, creates value, and makes a difference.”**
+
+---
+
+## Priyal Nehete
+
+### Co-Founder & Technology / Product
+
+Priyal is a Computer Science engineering student with a strong interest in **Artificial Intelligence, Machine Learning, software development, research, and technology-driven problem solving.**
+
+As a co-founder of TantraStack, Priyal focuses on translating ideas and business challenges into practical technology solutions while exploring innovative ways in which software, AI, automation, and modern development practices can create meaningful impact.
+
+She brings a strong **research-oriented mindset, analytical thinking, technical curiosity, attention to detail, and a passion for exploring emerging technologies.**
+
+Priyal is particularly interested in understanding the problem behind a requirement before deciding how technology should be used to solve it.
+
+At TantraStack, she contributes to **product strategy, technical development, research, documentation, problem solving, and exploring new opportunities for innovation.**
+
+Her approach combines technical thinking with curiosity — always asking not only *“Can we build it?”* but also *“Why should we build it, and how can we make it better?”*
+
+### Her Philosophy
+
+> **“Understand the problem deeply. Build the solution thoughtfully.”**
+
+---
+
+# TOGETHER
+
+## Different Strengths. One Direction.
+
+Maitri and Priyal bring different strengths to TantraStack, but share the same belief:
+
+### **Technology becomes meaningful when it solves a real problem.**
+
+Together, they combine:
+
+**Development**
+**Product Thinking**
+**Research**
+**Problem Solving**
+**Innovation**
+**AI & Emerging Technology**
+
+TantraStack started with a simple thought:
+
+> **What if we could use the technology we are learning not just to create academic projects, but to build solutions that businesses can actually use?**
+
+That thought became TantraStack.
+
+And this is only the beginning.
+
+### We don't just want to build software.
+
+### We want to build technology that matters.
+
+**That's TantraStack.**
+
+---
+
+# HAVE AN IDEA?
+
+## Let's Build It.
+
+You don't need to have everything figured out before reaching out.
+
+Maybe you need a website.
+
+Maybe your business needs an ERP.
+
+Maybe you're tired of managing everything manually.
+
+Maybe you have an idea for a software product.
+
+Or maybe you simply have a problem and aren't sure whether technology can solve it.
+
+**Tell us about it.**
+
+We'll listen, understand the problem, and explore what we can build together.
+
+### Let's turn your idea into something real.
+
+**[Start a Project]**
+
+---
+
+# CONTACT US
+
+## Let's Talk Technology.
+
+Have a project in mind?
+
+Need a website?
+
+Looking for an ERP solution?
+
+Want to automate a business process?
+
+Have an idea for a digital product?
+
+**We'd love to hear from you.**
+
+---
+
+### Email
+
+**[we.tantra.stack@gmail.com](mailto:we.tantra.stack@gmail.com)**
+
+---
+
+### Instagram
+
+**@tantrastack**
+
+Follow us for our projects, experiments, products, and journey as we build TantraStack.
+
+---
+
+# PROJECT INQUIRY
+
+## Tell Us What You're Building.
+
+**Name**
+
+Enter your name
+
+**Email**
+
+Enter your email address
+
+**Company / Business**
+
+Enter your company or business name
+
+**What can we help you with?**
+
+* Website
+* ERP
+* Custom Software
+* AI / Automation
+* E-commerce
+* Business Application
+* Other
+
+**Tell us about your project**
+
+Describe your requirement, problem, or idea...
+
+**[Send Inquiry]**
+
+---
+
+# FOOTER
+
+## TANTRASTACK
+
+**Technology That Works for Your Business.**
+
+Web Development · ERP Solutions · Custom Software · AI & Automation
+
+---
+
+### Quick Links
+
+Home
+About Us
+Services
+Products
+Our Work
+Founders
+Contact
+
+---
+
+### Connect With Us
+
+**Instagram:** @tantrastack
+
+**Email:** [we.tantra.stack@gmail.com](mailto:we.tantra.stack@gmail.com)
+
+---
+
+### Our Work
+
+**Hastkala by Siddhi**
+
+https://hastkalabysiddhi.up.railway.app/
+
+---
+
+**© 2026 TantraStack. All Rights Reserved.**
+
+**Built with curiosity. Driven by technology.**
+
+---

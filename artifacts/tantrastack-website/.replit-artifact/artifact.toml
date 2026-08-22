@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "TantraStack Website"
+description = "A premium responsive business website for TantraStack, a technology solutions company offering web development, ERP, custom software, AI, automation, and digital product development."
+version = "1.0.0"
+id = "artifacts/tantrastack-website"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18305
+
+[services.development]
+run = "pnpm --filter @workspace/tantrastack-website run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/tantrastack-website", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/tantrastack-website/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18305"
+BASE_PATH = "/"
