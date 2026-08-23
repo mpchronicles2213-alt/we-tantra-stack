@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "buildCommand": "pnpm install --ignore-scripts && pnpm --filter @workspace/api-server run build",
   "rewrites": [
     {
       "source": "/(.*)",
