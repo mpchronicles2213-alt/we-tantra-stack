@@ -5,9 +5,7 @@ import router from "./routes";
 import { logger } from "./lib/logger";
 
 const require = createRequire(import.meta.url);
-const pinoHttp = require("pino-http") as (
-  options?: Record<string, any>,
-) => any;
+const pinoHttp = require("pino-http") as any;
 
 const app: Express = express();
 
